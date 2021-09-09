@@ -4,8 +4,8 @@
 
 |       Desafio                  |            Tema do Desafio               |  Nível do Desafio |                   Respostas                   |
 |--------------------------------|------------------------------------------|-------------------|-----------------------------------------------|
-|      [Desafio 1](#ancora1)     |     Primeiros desafios Matemáticos em C# |      Básico       |      [Resolução](src/desafios/desafop_1.cs)   |   
-|      [Desafio 2](#ancora2)     |     Primeiros desafios Matemáticos em C# |      Básico       |      [Resolução](src/desafios/desafop-2.cs)   |   
+|      [Desafio 1](#ancora1)     |     Primeiros desafios Matemáticos em C# |      Básico       |      [Resolução](src/desafios/desafio_1.cs)   |   
+|      [Desafio 2](#ancora2)     |     Primeiros desafios Matemáticos em C# |      Básico       |      [Resolução](src/desafios/desafio-2.cs)   |   
 
 
 ## <a id="ancora1"></a>[Desafio 1](#ancora)
