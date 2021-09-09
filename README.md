@@ -1,4 +1,4 @@
-# Desafio Bootcamp Decola Tech avanade
+# Desafios Bootcamp Decola Tech avanade
 > Projeto baseado nos desafios propostos pelo Bootcamp Decola Tech avanade
 <a name="ancora"></a>
 
