@@ -4,12 +4,12 @@
 
 |       Desafio                  |            Tema do Desafio               |  Nível do Desafio |                   Respostas                   |
 |--------------------------------|------------------------------------------|-------------------|-----------------------------------------------|
-|      [Desafio 1](#ancora1)     |     Primeiros desafios Matemáticos em C# |      Básico       |      [Resolução](src/desafios/desafio_1.cs)   |   
-|      [Desafio 2](#ancora2)     |     Primeiros desafios Matemáticos em C# |      Básico       |      [Resolução](src/desafios/desafio-2.cs)   |   
-|      [Desafio 3](#ancora3)     |     Múltiplos                            |      Básico       |      [Resolução](src/desafios/desafio_3.cs)   |
-|      [Desafio 4](#ancora4)     |     Números Ímpares                      |      Básico       |      [Resolução](src/desafios/desafio_4.cs)   |
-|      [Desafio 5](#ancora5)     |     Conversão de Tempo                   |      Básico       |      [Resolução](src/desafios/desafio_5.cs)   |
-|      [Desafio 6](#ancora6)     |     Tempo do Dobby                       |      Básico       |      [Resolução](src/desafios/desafio_6.cs)   |
+|      [Desafio 1](#ancora1)     |     Soma Simples         |      Básico       |      [Resolução](src/desafios/desafio_1.cs)   |   
+|      [Desafio 2](#ancora2)     |     DDD                  |      Básico       |      [Resolução](src/desafios/desafio-2.cs)   |   
+|      [Desafio 3](#ancora3)     |     Múltiplos            |      Básico       |      [Resolução](src/desafios/desafio_3.cs)   |
+|      [Desafio 4](#ancora4)     |     Números Ímpares      |      Básico       |      [Resolução](src/desafios/desafio_4.cs)   |
+|      [Desafio 5](#ancora5)     |     Conversão de Tempo   |      Básico       |      [Resolução](src/desafios/desafio_5.cs)   |
+|      [Desafio 6](#ancora6)     |     Tempo do Dobby       |      Básico       |      [Resolução](src/desafios/desafio_6.cs)   |
 
 ****
 ## <a id="ancora1"></a>[Desafio 1](#ancora)
